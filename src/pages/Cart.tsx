@@ -22,10 +22,17 @@ const Cart = () => {
               <ShoppingBag className="w-12 h-12 text-primary" />
             </div>
             <h1 className="font-display text-2xl md:text-3xl font-bold text-foreground mb-3">
+<<<<<<< HEAD
               ATLEAST DO WINDOW SHOPPING
             </h1>
             <p className="text-muted-foreground mb-8 max-w-md mx-auto">
               LOOKS LIKE U CANNOT AFFORD ANYTHING GO AND ADD SOMETHING
+=======
+              Your bag is empty
+            </h1>
+            <p className="text-muted-foreground mb-8 max-w-md mx-auto">
+              Looks like you haven't added anything to your bag yet. Start shopping to fill it up!
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
             </p>
             <Link to="/">
               <Button className="gradient-primary text-primary-foreground px-8 py-6 text-lg font-semibold rounded-full shadow-soft hover:shadow-hover transition-all gap-2">
@@ -192,6 +199,7 @@ const Cart = () => {
                 <div className="mt-6 pt-6 border-t border-border">
                   <div className="flex flex-wrap justify-center gap-4 text-xs text-muted-foreground">
                     <span className="flex items-center gap-1">
+<<<<<<< HEAD
                       <span className="text-lg">🔒</span> NON Secure Checkout
                     </span>
                     <span className="flex items-center gap-1">
@@ -199,6 +207,15 @@ const Cart = () => {
                     </span>
                     <span className="flex items-center gap-1">
                       <span className="text-lg">↩️</span> NEVER Returns
+=======
+                      <span className="text-lg">🔒</span> Secure Checkout
+                    </span>
+                    <span className="flex items-center gap-1">
+                      <span className="text-lg">✅</span> 100% Genuine
+                    </span>
+                    <span className="flex items-center gap-1">
+                      <span className="text-lg">↩️</span> Easy Returns
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
                     </span>
                   </div>
                 </div>

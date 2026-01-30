@@ -85,7 +85,11 @@ const Hero = () => {
                     <span className="text-2xl">💄</span>
                   </div>
                   <div>
+<<<<<<< HEAD
                     <div className="font-semibold text-sm">Worst Rated</div>
+=======
+                    <div className="font-semibold text-sm">Top Rated</div>
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
                     <div className="text-xs text-muted-foreground">Lipsticks</div>
                   </div>
                 </div>
@@ -98,7 +102,11 @@ const Hero = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-sm">Flash Sale</div>
+<<<<<<< HEAD
                     <div className="text-xs text-primary font-bold">Up to 1% Off</div>
+=======
+                    <div className="text-xs text-primary font-bold">Up to 50% Off</div>
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
                   </div>
                 </div>
               </div>

@@ -28,7 +28,11 @@ const Navbar = () => {
       <header className="sticky top-0 z-50 bg-background/95 backdrop-blur-md border-b border-border">
         {/* Top Banner */}
         <div className="gradient-primary text-primary-foreground text-center py-2 px-4 text-sm font-medium">
+<<<<<<< HEAD
           ✨ Free Shipping on orders above 1kidney | Use code: kangaali for 0.1% off ✨
+=======
+          ✨ Free Shipping on orders above ₹499 | Use code: GLOW20 for 20% off ✨
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
         </div>
 
         {/* Main Navbar */}

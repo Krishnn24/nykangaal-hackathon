@@ -13,11 +13,19 @@ const Footer = () => {
       { name: "New Arrivals", href: "#" },
     ],
     help: [
+<<<<<<< HEAD
       { name: "Never Contact Us", href: "#" },
       { name: "we will not answer", href: "#" },
       { name: "No Shipping Info", href: "#" },
       { name: "No Returns & Exchanges", href: "#" },
       { name: "No Track Order", href: "#" },
+=======
+      { name: "Contact Us", href: "#" },
+      { name: "FAQs", href: "#" },
+      { name: "Shipping Info", href: "#" },
+      { name: "Returns & Exchanges", href: "#" },
+      { name: "Track Order", href: "#" },
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
     ],
     about: [
       { name: "Our Story", href: "#" },
@@ -35,10 +43,17 @@ const Footer = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-2xl mx-auto text-center">
             <h3 className="font-display text-2xl md:text-3xl font-bold text-primary-foreground mb-3">
+<<<<<<< HEAD
               Join the Kangaali Club
             </h3>
             <p className="text-primary-foreground/80 mb-6">
   Because bankcrupty should come with privileges.
+=======
+              Join the Glow Club
+            </h3>
+            <p className="text-primary-foreground/80 mb-6">
+  Because good taste should come with privileges.
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
 </p>
 
             <div className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
@@ -48,7 +63,11 @@ const Footer = () => {
                 className="bg-primary-foreground/20 border-primary-foreground/30 text-primary-foreground placeholder:text-primary-foreground/60 rounded-full"
               />
               <Button className="bg-primary-foreground text-primary font-semibold rounded-full hover:bg-primary-foreground/90 px-8">
+<<<<<<< HEAD
                 DONT Subscribe
+=======
+                Subscribe
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
               </Button>
             </div>
           </div>
@@ -64,7 +83,11 @@ const Footer = () => {
               Ny-Kangaal
             </h2>
             <p className="text-primary-foreground/70 text-sm mb-6">
+<<<<<<< HEAD
               run out of money on our platform
+=======
+              Your one-stop destination for all things beauty. Discover, explore, and glow.
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 bg-primary-foreground/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">

@@ -11,10 +11,17 @@ const ProductGrid = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-10">
           <div>
             <h2 className="font-display text-3xl md:text-4xl font-bold text-foreground mb-2">
+<<<<<<< HEAD
               NEVER BOUGHT PRODUCTS
             </h2>
             <p className="text-muted-foreground">
               The most hated products by our beauty community
+=======
+              Trending Now
+            </h2>
+            <p className="text-muted-foreground">
+              The most loved products by our beauty community
+>>>>>>> 4d05f7cb31f09b6fc23d8afd5397bf20b818eb5a
             </p>
           </div>
           <Button variant="outline" className="self-start md:self-auto rounded-full border-primary text-primary hover:bg-primary hover:text-primary-foreground gap-2">
